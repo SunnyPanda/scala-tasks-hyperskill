@@ -1,7 +1,7 @@
 /*
-Modify the program below to output the statistics of the input text line:
-the number of characters, unique characters, and words.
-*/
+ * Modify the program below to output the statistics of the input text line:
+ * the number of characters, unique characters, and words.
+ */
 
 object TextReportPrinter extends App {
 

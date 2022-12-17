@@ -1,7 +1,7 @@
 /*
-Scally is newbie programmer. She tries to entertain herself with some astronomy.
-She started writing a program that prints true if the input lines are real planets of the Solar system
-and false otherwise. Finish her program.
+ * Scally is newbie programmer. She tries to entertain herself with some astronomy.
+ * She started writing a program that prints true if the input lines are real planets of the Solar system
+ * and false otherwise. Finish her program.
  */
 
 object PlanetsGame extends App {

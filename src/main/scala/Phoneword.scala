@@ -1,5 +1,6 @@
-/* Scally wants to transform phone numbers from phoneword format.
-   She started the program below: it needs to convert words with 4 characters. Finish this program.
+/*
+ * Scally wants to transform phone numbers from phoneword format.
+ * She started the program below: it needs to convert words with 4 characters. Finish this program.
  */
 
 object Phoneword extends App {

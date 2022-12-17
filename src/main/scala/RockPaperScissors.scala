@@ -1,8 +1,8 @@
 /*
-Finish the program that implements the famous game Rock paper scissors.
-This is a game for two players where each selects "rock", "paper" or "scissors".
-Our program receives the players' choices as input lines: for the first player and for the second.
-If both select the same shape, the program prints draw , otherwise it prints who wins.
+ * Finish the program that implements the famous game Rock paper scissors.
+ * This is a game for two players where each selects "rock", "paper" or "scissors".
+ * Our program receives the players' choices as input lines: for the first player and for the second.
+ * If both select the same shape, the program prints draw , otherwise it prints who wins.
  */
 
 object RockPaperScissors extends App {

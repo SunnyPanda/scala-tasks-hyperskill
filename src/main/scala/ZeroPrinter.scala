@@ -1,4 +1,6 @@
-// Modify a program so that it prints zero as the output.
+/*
+ * Modify a program so that it prints zero as the output.
+ */
 
 object ZeroPrinter extends App {
   val a = 3
